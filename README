@@ -1,0 +1,23 @@
+# Análise de Dados Fictícios de Bitcoin
+
+Este projeto é uma análise exploratória de dados fictícios de preços e volumes de negociação de Bitcoin. Os dados foram gerados aleatoriamente para simular a variação de preços e volumes ao longo do tempo.
+
+## Objetivo
+
+O objetivo deste projeto é demonstrar a análise e visualização de dados financeiros usando Python. As principais análises incluem:
+- **Visualização do Preço de Fechamento**: Análise da variação do preço de fechamento do Bitcoin ao longo do tempo.
+- **Visualização do Volume de Negociação**: Análise do volume de negociação do Bitcoin ao longo do tempo.
+- **Relatório Básico**: Observações e conclusões baseadas nas visualizações.
+
+## Tecnologias Utilizadas
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+## Como Executar o Código
+
+1. Clone este repositório para sua máquina local:
+   ```bash
+   git clone https://github.com/yourusername/repositoryname.git
